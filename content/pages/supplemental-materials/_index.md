@@ -20,7 +20,7 @@ Session 3: Designing a Course: Developing Learning Outcomes
 
 [Bloom's Taxonomy Handout (PDF)]({{< baseurl >}}/resources/mit5_95jf15_blooms_verbs)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[ABET (PDF)](http://www.abet.org/wp-content/uploads/2015/05/E001-15-16-EAC-Criteria-03-10-15.pdf)  
+[ABET (PDF)](http://www.abet.org/wp-content/uploads/2015/05/E001-15-16-EAC-Criteria-03-10-15.pdf)  
 _See Criterion 3 for Learning Outcomes_
 
 [Photos from the In-class Activity]({{< baseurl >}}/pages/supplemental-materials/in-class-activity-photos)
@@ -41,7 +41,7 @@ Session 4: Teaching Methodologies: Part I - Organizing a Class
 Session 5: Teaching Methodologies: Part II - Active Learning: Why and How?
 --------------------------------------------------------------------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Slides from Session 5 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit5_95jf15_class5_slides)
+[Slides from Session 5 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit5_95jf15_class5_slides)
 
 Session 6: What Can Nerds Learn from Actors?
 --------------------------------------------

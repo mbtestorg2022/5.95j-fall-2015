@@ -127,7 +127,7 @@ Petty, Geoff. ["Active Learning Works: The Evidence." (DOC)](http://geoffpetty.c
 
 psutlt. "[Flipping the Classroom-Simply Speaking](https://www.youtube.com/watch?feature=player_embedded&v=26pxh_qMppE)." February 18, 2012. YouTube.
 
-Felder, Richard M., and Rebecca B. Rent. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Learning by Doing." (PDF)](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Active.pdf) _Chemical Engineering Education_ 37, no. 4 (2003): 282–3.
+Felder, Richard M., and Rebecca B. Rent. ["Learning by Doing." (PDF)](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Active.pdf) _Chemical Engineering Education_ 37, no. 4 (2003): 282–3.
 
 Freeman, Scott, Sarah L. Eddy, et al. "[Active Learning Increases Student Performance in Science, Engineering, and Mathematics](http://dx.doi.org/10.1073/pnas.1319030111)."
 
@@ -173,7 +173,7 @@ Designing Effective Assignments & Assessments
 
 Mazur, Eric. "The Problem with Problems." _Optics and Photonics News_ 6 (1996): 59–60.
 
-McClymer, J. F., and L. Z. Knowles. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ersatz Learning, Inauthentic Testing." (PDF - 3.6MB)](http://casa.colorado.edu/~dduncan/teachingseminar/ErsatzLearning.pdf) _Journal on Excellence in College Teaching_ 3 (1992): 33–50.
+McClymer, J. F., and L. Z. Knowles. ["Ersatz Learning, Inauthentic Testing." (PDF - 3.6MB)](http://casa.colorado.edu/~dduncan/teachingseminar/ErsatzLearning.pdf) _Journal on Excellence in College Teaching_ 3 (1992): 33–50.
 
 Suskie, Linda. "Writing a Traditional Test." Chapter 11 in _Assessing Student Learning: A Common Sense Guide_. Jossey-Bass, 2009. ISBN: 9780470289648.
 
@@ -201,7 +201,7 @@ Mayer, Richard. "[Elements of a Science of E-Learning](http://dx.doi.org/10.2190
 
 Berrett, Dan. "[How 'Flipping' the Classroom Can Improve the Traditional Lecture](http://chronicle.com/article/How-Flipping-the-Classroom/130857/)," _The Chronicle of Higher Education_, February 19, 2012.
 
-Dahlstrom, Eden, J. D. Walker, and Charles Dziuban, foreward by Glenda Morgan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_ECAR Study of Undergraduate Students and Information Technology_." (PDF - 2.6MB)](http://web.mit.edu/afs/athena/course/5/5.95/jr/PCR8/ECAR2013.pdf) 2013 (Research Report). Louisville, CO: EDUCAUSE Center for Analysis and Research, September 2013.  
+Dahlstrom, Eden, J. D. Walker, and Charles Dziuban, foreward by Glenda Morgan. ["_ECAR Study of Undergraduate Students and Information Technology_." (PDF - 2.6MB)](http://web.mit.edu/afs/athena/course/5/5.95/jr/PCR8/ECAR2013.pdf) 2013 (Research Report). Louisville, CO: EDUCAUSE Center for Analysis and Research, September 2013.  
 You need to read only the Executive Summary.
 
 Aleman, L. and D. Shah. [_Guidelines on Ed Tech Usage_ (PDF)]({{< baseurl >}}/resources/mit5_95jf15_guidelines). Created for the MIT Teaching Certificate Program, 2012.
@@ -220,12 +220,12 @@ Grading and Assessment
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Carl Wieman Science Education Initiative-Assessments That Support Student Learning (PDF)](http://www.cwsei.ubc.ca/resources/files/Assessment_That_Support_Learning.pdf)  
+[Carl Wieman Science Education Initiative-Assessments That Support Student Learning (PDF)](http://www.cwsei.ubc.ca/resources/files/Assessment_That_Support_Learning.pdf)  
 _From_: Key points and factors from the review paper "Conditions under which Assessment Supports Student Learning." By G. Gibbs and C. Simpson.
 
 McKeachie, W. J. "The A, B, C's of Assigning Grades." Chapter 9 in _Teaching Tips: A Guidebook for the Beginning College Teacher_. Heath, 1969.
 
-Piontek, Mary E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["CRLT Occasional Paper No. 24: Best Practices for Designing and Grading Exams." (PDF)](http://www.crlt.umich.edu/sites/default/files/resource_files/CRLT_no24.pdf) Center for Research on Teaching and Learning, University of Michigan, 2001.
+Piontek, Mary E. ["CRLT Occasional Paper No. 24: Best Practices for Designing and Grading Exams." (PDF)](http://www.crlt.umich.edu/sites/default/files/resource_files/CRLT_no24.pdf) Center for Research on Teaching and Learning, University of Michigan, 2001.
 
 
 {{< tdclose >}}
@@ -241,9 +241,9 @@ Creating an Inclusive Classroom
 {{< tdopen >}}
 
 
-Glenn, Weslee S., Elizabeth M. V., and Catherine L. Drennan. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"But I Don't Like Beer: A Guide to Identifying and Reducing Stereotype Threat to Maximize Student Performance." (PDF - 4.6MB)](http://drennan.mit.edu/wp-content/uploads/2012/12/But-I-don_t-like-beer__MIT-version_nonchem_Aug2012.pdf) Department of Chemistry, Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts. Howard Hughes Medical Institute Professors grant. [ http://drennan.mit.edu/education/education-interests/teacher-and-mentor-training/](http://drennan.mit.edu/education/education-interests/teacher-and-mentor-training/) (under Resources).
+Glenn, Weslee S., Elizabeth M. V., and Catherine L. Drennan. ["But I Don't Like Beer: A Guide to Identifying and Reducing Stereotype Threat to Maximize Student Performance." (PDF - 4.6MB)](http://drennan.mit.edu/wp-content/uploads/2012/12/But-I-don_t-like-beer__MIT-version_nonchem_Aug2012.pdf) Department of Chemistry, Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts. Howard Hughes Medical Institute Professors grant. [ http://drennan.mit.edu/education/education-interests/teacher-and-mentor-training/](http://drennan.mit.edu/education/education-interests/teacher-and-mentor-training/) (under Resources).
 
-McIntosh, Peggy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["White Privilege: Unpacking the Invisible Backpack." (PDF)](https://admin.artsci.washington.edu/sites/adming/files/unpacking-invisible-knapsack.pdf) _Independent School Magazine_, 1998, 31.
+McIntosh, Peggy. ["White Privilege: Unpacking the Invisible Backpack." (PDF)](https://admin.artsci.washington.edu/sites/adming/files/unpacking-invisible-knapsack.pdf) _Independent School Magazine_, 1998, 31.
 
 Crosley-Corcoran, Gina. "[Explaining White Privilege to a Broke White Person](http://www.huffingtonpost.com/gina-crosleycorcoran/explaining-white-privilege-to-a-broke-white-person_b_5269255.html)," Huffington Post, May 8, 2014. (A slightly different perspective on White Privilege)
 
@@ -267,7 +267,7 @@ Developing Your Teaching Philosophy
 {{< tdopen >}}
 
 
-Haugen, Lee. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Writing a Teaching Philosophy Statement (PDF)](https://tomprof.stanford.edu/posting/193)." _Center for Teaching Excellence_, Iowa State University, 1998.
+Haugen, Lee. "[Writing a Teaching Philosophy Statement (PDF)](https://tomprof.stanford.edu/posting/193)." _Center for Teaching Excellence_, Iowa State University, 1998.
 
 Oneil, C., D. Meizlich, and M. Kaplan. "[Writing a Statement of Teaching Philosophy for the Academic Job Search](http://www.crlt.umich.edu/sites/default/files/resource_files/CRLT_no23.pdf)." Center for Research on Teaching and Learning, University of Michigan, 2007.
 
